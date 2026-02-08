@@ -3,6 +3,9 @@
 This repository contains an **inference-time extension layer** for **Chronos-2** that improves *cross-learning* by changing **only batch composition and group IDs**—the **Chronos-2 forward pass, tokenization, parameters, and inference path are unchanged**.
 
 ✅ **Extension location:**
+
+src/chronos/chronos2/extension_4/
+
 ---
 
 ## What this extension does
